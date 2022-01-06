@@ -1,0 +1,22 @@
+{
+  "name": "aws-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ak-1420/aws-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ak-1420/aws-backend/issues"
+  },
+  "homepage": "https://github.com/ak-1420/aws-backend#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
